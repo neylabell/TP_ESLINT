@@ -35,3 +35,20 @@ C:\Users\neyla\Desktop\ESGI\3AIABD\S2\Outils_et_pratiques_du_code\TP2\tp-eslint-
   4:3  warning  Unexpected console statement  no-console
 
 ✖ 4 problems (0 errors, 4 warnings)
+
+________________________________________________________________________________________________________
+
+PS C:\Users\neyla\Desktop\ESGI\3AIABD\S2\Outils_et_pratiques_du_code\TP2\tp-eslint-git> npx eslint --fix index.js
+
+C:\Users\neyla\Desktop\ESGI\3AIABD\S2\Outils_et_pratiques_du_code\TP2\tp-eslint-git\index.js
+   3:3  warning  Unexpected console statement  no-console
+  11:5  warning  Unexpected console statement  no-console
+  17:1  warning  Unexpected console statement  no-console
+  22:3  warning  Unexpected console statement  no-console
+  33:3  warning  Unexpected console statement  no-console
+  37:3  warning  Unexpected console statement  no-console
+  48:3  warning  Unexpected console statement  no-console
+  49:3  warning  Unexpected console statement  no-console
+  53:3  warning  Unexpected console statement  no-console
+
+✖ 9 problems (0 errors, 9 warnings)
